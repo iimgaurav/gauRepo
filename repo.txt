@@ -2,3 +2,10 @@ I am a detail-oriented Data Analyst passionate about transforming data into clea
 actionable insights. With expertise in data visualization, statistical analysis,
  and tools like Excel, SQL, Python, Tableau, Power BI, Azure , GWS. I help
  businesses make informed decisions and uncover opportunities for growth.
+
+
+
+I am a detail-oriented Data Analyst passionate about transforming data into clear, 
+actionable insights. With expertise in data visualization, statistical analysis,
+ and tools like Excel, SQL, Python, Tableau, Power BI, Azure , GWS. I help
+ businesses make informed decisions and uncover opportunities for growth.
